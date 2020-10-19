@@ -1,4 +1,3 @@
-# yztan.github.io
 <p>
 First rodeo with Github
 </p>
