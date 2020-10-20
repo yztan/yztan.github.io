@@ -1,6 +1,3 @@
----
-layout:default
----
 # Project E-portfolio
 ## Flood warning and detection system
 [Report](https://docs.google.com/document/d/1ZwYadvoPRZmoLbmnPEsbLUT0bUAa2cZcgDINje4vfVY/edit?usp=sharing)  
